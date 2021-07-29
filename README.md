@@ -1,7 +1,7 @@
 # o-que-aprendi-
-1- # colocar números na lista 
-''' dif
-# 3- colocar número alvo
-+ 4-  obter o resultado
-5-
-6-
+''' diff
+# 1-colocar números na lista 
++ 2 - colocar número alvo
+- 3- colaremos os números repostas
+# 4- obter resultado
+'''

@@ -1,5 +1,5 @@
 # o-que-aprendi-
-''' diff
+''' dif
 # 1-colocar números na lista 
 + 2 - colocar número alvo
 - 3- colaremos os números repostas

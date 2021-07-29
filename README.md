@@ -1,6 +1,6 @@
 # o-que-aprendi-
 1- # colocar números na lista 
-''' diff
+''' dif
 # 3- colocar número alvo
 + 4-  obter o resultado
 5-
